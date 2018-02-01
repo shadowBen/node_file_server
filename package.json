@@ -1,0 +1,16 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "livereload": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node http.js"
+  },
+  "author": "wyj",
+  "license": "ISC"
+}
